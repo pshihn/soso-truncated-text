@@ -1,6 +1,6 @@
 # \<soso-truncated-text\>
 
-Text display that truncates text with ellipses to fit into the height of the control
+Text display that truncates text with ellipsis to fit into the height of the control
 
 <!--
 ```
